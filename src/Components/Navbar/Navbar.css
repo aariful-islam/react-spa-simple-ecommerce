@@ -1,0 +1,20 @@
+.header{
+    background-color:  #1C2B35;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.header a{
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 50px;
+    color: white;
+}
+
+.header img{
+    margin-left: 40px;
+}
+.header a:hover{
+    color: orange;
+}

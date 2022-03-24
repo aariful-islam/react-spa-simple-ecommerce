@@ -1,0 +1,13 @@
+.shop{
+    /* display: grid;
+    grid-template-columns: 1fr,1fr; */
+    display: grid;
+    grid-template-columns: 4fr 1fr
+
+}
+.show-products{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: center;
+    margin-left: 20px;
+}
